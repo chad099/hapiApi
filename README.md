@@ -2,7 +2,7 @@
 Hapi js Api with JWT token based authentication
 
 #Setup
-*Run below commnads.*
+*Run below commands.*
 
 npm install
 
